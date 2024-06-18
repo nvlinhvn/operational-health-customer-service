@@ -35,10 +35,10 @@ We can observe:
 # Case Distribution
 
 ##### Based on Duration
-![case distribution](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/Case_Distribution_by_time.png)
+![case distribution](./img/Case_Distribution_by_time.png)
 
 ##### Based on Actors Working Hour
-![service 24/7](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/Handle_Case_Heatmap.png)
+![service 24/7](./img/Handle_Case_Heatmap.png)
 
 We can see from the end-customer perspective:
 * Instant: Responsive to customer inquiries or issues, and ~70% case closed within 24h created (Instant)
@@ -48,15 +48,15 @@ We can see from the end-customer perspective:
 
 # Actor Workload, Performance and Efficiency
 
-![actor general behavior](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/General_Actor_Behavior.png)
+![actor general behavior](./img/General_Actor_Behavior.png)
 
 ##### Top 30 Actors by processed cases
 
-![top 30](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/Workload_top_30.png)
+![top 30](./img/Workload_top_30.png)
 
 ##### Bottom 30 Actors by processed cases
 
-![bottom 30](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/Workload_bottom_30.png)
+![bottom 30](./img/Workload_bottom_30.png)
 
 We can see some improvement needed:
 * Non-uniform Workdload Distribution (~50% cases processed by 10% actors)
@@ -83,7 +83,7 @@ Assuming:
 
 The plan can be reviewed below:
 
-![Hiring and Training Plan](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/operational-health-customer-service/img/Plan_to_hire_and_training.png)
+![Hiring and Training Plan](./img/Plan_to_hire_and_training.png)
 
 * Would take ~10 months for fully training new 3960 hires (660 hires/batch)
 * If max capacity = 150 hires/batch -> would take 2 years
