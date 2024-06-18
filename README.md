@@ -24,7 +24,7 @@ One of the client is to ask for the analysis of operational health of the proces
 
 # Operational Health of Processing Team
 
-![operational health](https://raw.githubusercontent.com/nvlinhvn/operational-health-customer-service/tree/main/img/Daily_KPI.png)
+![operational health](./img/Daily_KPI.png)
 
 We can observe:
 * Efficiency in case management (low backlog rate & efficient case closure)
