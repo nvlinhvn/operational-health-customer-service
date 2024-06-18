@@ -58,7 +58,7 @@ We can see from the end-customer perspective:
 
 ![bottom 30](./img/Workload_bottom_30.png)
 
-We can see some improvement needed:
+Some areas needs to be improved:
 * Non-uniform Workdload Distribution (~50% cases processed by 10% actors)
 * Potential mismatch between agent skills and case complexity
 * Gaps in seniority/experience among agents
